@@ -1,2 +1,1 @@
-backup 
-For own use
+backup for own use
